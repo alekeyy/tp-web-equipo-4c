@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\UTN\PROG 3\2- forms\WindowsFormsApp1\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\Usuario\Desktop\UTN\PROG 3\2- forms\WindowsFormsApp1\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\Usuario\Desktop\UTN\PROG 3\2- forms\WindowsFormsApp1\accesoDatos\obj\Debug\accesoDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\UTN\PROG 3\2- forms\WindowsFormsApp1\accesoDatos\obj\Debug\accesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\UTN\PROG 3\2- forms\WindowsFormsApp1\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\Usuario\Desktop\UTN\PROG 3\2- forms\WindowsFormsApp1\accesoDatos\obj\Debug\accesoDatos.pdb
