@@ -47,8 +47,11 @@ namespace tp4
 
         protected void btnContinuar_Click(object sender, EventArgs e)
         {
-            if (btnContinuar.Text == "Continuar")
-                Response.Redirect("EleccionPremio.aspx", false);
+            string codigo;
+            if (btnContinuar.Text == "Continuar") { 
+                codigo = txtVoucher.Text;
+                Response.Redirect("EleccionPremio.aspx?cod=" + codigo, false);
+            }
             else
                 Response.Redirect("AGREGAR LA URL PARA VOLVER A LA PAGINA DE INICIO", false);
         }

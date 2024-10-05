@@ -22,7 +22,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                    <a class="nav-item nav-link" href="#">Ingresar Codigo (Braian hacelo)</a>
+                    <a class="nav-item nav-link" href="VerificacionVoucher.aspx">Ingresar Codigo (Braian hacelo)</a>
                     <a class="nav-item nav-link active" href="EleccionPremio.aspx">Eleccion Premio</a>
                     <a class="nav-item nav-link active" href="Datos.aspx">Datos Usuario</a>
                 </div>
