@@ -21,7 +21,7 @@ namespace negocio
             AccesoDatos datos = new AccesoDatos();
             try
             {
-                datos.setearConsulta("SELECT A.Id A.Codigo, A.Nombre, A.Descripcion, A.IdMarca, A.IdCategoria, A.Precio FROM ARTICULOS A");
+                datos.setearConsulta("SELECT A.Id, A.Codigo, A.Nombre, A.Descripcion, A.IdMarca, A.IdCategoria, A.Precio FROM ARTICULOS A");
                 datos.ejecutarLectura();
 
                 while (datos.Lector.Read())
@@ -33,7 +33,7 @@ namespace negocio
                     aux.Codigo = (string)datos.Lector["Codigo"];
                     aux.Nombre = (string)datos.Lector["Nombre"];
                     aux.Descripcion = (string)datos.Lector["Descripcion"];
-                    aux.Precio = (float)datos.Lector["Precio"];
+                    aux.Precio = (decimal)datos.Lector["Precio"];
 
                     //aux.Tipo = new Elemento();
                     //aux.Tipo.Id = (int)datos.Lector["IdTipo"];

@@ -8,24 +8,26 @@
     <title>Pagina</title>
     <link href="Content/bootstrap.min.css" rel="stylesheet" />
     <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/style.css" rel="stylesheet" />
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
 <body>
     <form id="form1" runat="server">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-          <a class="navbar-brand" href="home.aspx">Home</a>
+          <a class="navbar-brand text-danger" href="#">FKIN PROYECT</a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
+              <a class="nav-item nav-link" href="#">Ingresar Codigo (Braian hacelo)</a>
               <a class="nav-item nav-link active" href="EleccionPremio.aspx">Eleccion Premio</a>
-              <a class="nav-item nav-link" href="#">Ingresar Codigo</a>
+              <a class="nav-item nav-link active" href="Datos.aspx">Datos Usuario</a>
             </div>
           </div>
         </nav>
-        <div>
+        <div class="container">
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
 
             </asp:ContentPlaceHolder>

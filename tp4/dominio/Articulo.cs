@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace negocio
+namespace dominio
 {
     public class Articulo
     {
@@ -15,7 +15,7 @@ namespace negocio
         public String Codigo { get; set; }
         public int IdMarca { get; set; }
         public int IdCategoria { get; set; }
-        public float Precio { get; set; }
+        public decimal Precio { get; set; }
         //traer de otra tabla
         public List<Imagenes> Imagenes { get; set; }
     }
