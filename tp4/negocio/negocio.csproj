@@ -41,7 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArticuloNegocio.cs" />
     <Compile Include="ElementoNegocio.cs" />
+    <Compile Include="ImagenesNegocio.cs" />
     <Compile Include="PokemonNegocio.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
