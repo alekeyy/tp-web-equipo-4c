@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\",
+  "WorkspaceRootPath": "C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6C45A0E-1C14-4DB4-BC47-B3E5858F0F2B}|tp4\\tp4.csproj|C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\tp4\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{F6C45A0E-1C14-4DB4-BC47-B3E5858F0F2B}|tp4\\tp4.csproj|C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\tp4\\verificacionvoucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F6C45A0E-1C14-4DB4-BC47-B3E5858F0F2B}|tp4\\tp4.csproj|solutionrelative:tp4\\verificacionvoucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31A556D-8934-4227-B8D1-B9A2AED58006}|negocio\\negocio.csproj|C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31A556D-8934-4227-B8D1-B9A2AED58006}|negocio\\negocio.csproj|solutionrelative:negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C45A0E-1C14-4DB4-BC47-B3E5858F0F2B}|tp4\\tp4.csproj|c:\\users\\poky1975\\documents\\github\\tp-web-equipo-4c\\tp4\\tp4\\verificacionvoucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C45A0E-1C14-4DB4-BC47-B3E5858F0F2B}|tp4\\tp4.csproj|solutionrelative:tp4\\verificacionvoucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C45A0E-1C14-4DB4-BC47-B3E5858F0F2B}|tp4\\tp4.csproj|C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\tp4\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{F6C45A0E-1C14-4DB4-BC47-B3E5858F0F2B}|tp4\\tp4.csproj|solutionrelative:tp4\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BF59D31-AA1A-4AAA-A7D5-44805A682A2F}|accesoDatos\\accesoDatos.csproj|c:\\users\\usuario\\desktop\\utn\\prog 3\\tp-web-equipo-4c\\tp4\\accesodatos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D31A556D-8934-4227-B8D1-B9A2AED58006}|negocio\\negocio.csproj|C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\negocio\\imagenesnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31A556D-8934-4227-B8D1-B9A2AED58006}|negocio\\negocio.csproj|solutionrelative:negocio\\imagenesnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF59D31-AA1A-4AAA-A7D5-44805A682A2F}|accesoDatos\\accesoDatos.csproj|C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\accesodatos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BF59D31-AA1A-4AAA-A7D5-44805A682A2F}|accesoDatos\\accesoDatos.csproj|solutionrelative:accesodatos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6C45A0E-1C14-4DB4-BC47-B3E5858F0F2B}|tp4\\tp4.csproj|C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\tp4\\eleccionpremio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6C45A0E-1C14-4DB4-BC47-B3E5858F0F2B}|tp4\\tp4.csproj|solutionrelative:tp4\\eleccionpremio.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEC87431-05AE-4B1D-8472-1EB47A0C6A8C}|dominio\\dominio.csproj|C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC87431-05AE-4B1D-8472-1EB47A0C6A8C}|dominio\\dominio.csproj|solutionrelative:dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6C45A0E-1C14-4DB4-BC47-B3E5858F0F2B}|tp4\\tp4.csproj|c:\\users\\usuario\\desktop\\utn\\prog 3\\tp-web-equipo-4c\\tp4\\tp4\\datos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{F6C45A0E-1C14-4DB4-BC47-B3E5858F0F2B}|tp4\\tp4.csproj|solutionrelative:tp4\\datos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6C45A0E-1C14-4DB4-BC47-B3E5858F0F2B}|tp4\\tp4.csproj|c:\\users\\usuario\\desktop\\utn\\prog 3\\tp-web-equipo-4c\\tp4\\tp4\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F6C45A0E-1C14-4DB4-BC47-B3E5858F0F2B}|tp4\\tp4.csproj|solutionrelative:tp4\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6C45A0E-1C14-4DB4-BC47-B3E5858F0F2B}|tp4\\tp4.csproj|c:\\users\\usuario\\desktop\\utn\\prog 3\\tp-web-equipo-4c\\tp4\\tp4\\eleccionpremio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{F6C45A0E-1C14-4DB4-BC47-B3E5858F0F2B}|tp4\\tp4.csproj|solutionrelative:tp4\\eleccionpremio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC87431-05AE-4B1D-8472-1EB47A0C6A8C}|dominio\\dominio.csproj|C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\dominio\\imagenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEC87431-05AE-4B1D-8472-1EB47A0C6A8C}|dominio\\dominio.csproj|solutionrelative:dominio\\imagenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC87431-05AE-4B1D-8472-1EB47A0C6A8C}|dominio\\dominio.csproj|C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DEC87431-05AE-4B1D-8472-1EB47A0C6A8C}|dominio\\dominio.csproj|C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEC87431-05AE-4B1D-8472-1EB47A0C6A8C}|dominio\\dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D31A556D-8934-4227-B8D1-B9A2AED58006}|negocio\\negocio.csproj|C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D31A556D-8934-4227-B8D1-B9A2AED58006}|negocio\\negocio.csproj|C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D31A556D-8934-4227-B8D1-B9A2AED58006}|negocio\\negocio.csproj|solutionrelative:negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,93 +46,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Datos.aspx",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\tp4\\Datos.aspx",
-              "RelativeDocumentMoniker": "tp4\\Datos.aspx",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\tp4\\Datos.aspx",
-              "RelativeToolTip": "tp4\\Datos.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-05T02:34:39.522Z",
+              "DocumentIndex": 2,
+              "Title": "VerificacionVoucher.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\tp4\\VerificacionVoucher.aspx.cs",
+              "RelativeDocumentMoniker": "tp4\\VerificacionVoucher.aspx.cs",
+              "ToolTip": "C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\tp4\\VerificacionVoucher.aspx.cs",
+              "RelativeToolTip": "tp4\\VerificacionVoucher.aspx.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T05:16:52.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\tp4\\Content\\style.css",
-              "RelativeDocumentMoniker": "tp4\\Content\\style.css",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\tp4\\Content\\style.css",
-              "RelativeToolTip": "tp4\\Content\\style.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-05T02:31:40.145Z",
+              "DocumentIndex": 0,
+              "Title": "VerificacionVoucher.aspx",
+              "DocumentMoniker": "C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\tp4\\VerificacionVoucher.aspx",
+              "RelativeDocumentMoniker": "tp4\\VerificacionVoucher.aspx",
+              "ToolTip": "C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\tp4\\VerificacionVoucher.aspx",
+              "RelativeToolTip": "tp4\\VerificacionVoucher.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-05T05:04:27.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "VoucherNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\negocio\\VoucherNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\VoucherNegocio.cs",
+              "ToolTip": "C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\negocio\\VoucherNegocio.cs",
+              "RelativeToolTip": "negocio\\VoucherNegocio.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAD4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T04:26:13.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Voucher.cs",
+              "DocumentMoniker": "C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\dominio\\Voucher.cs",
+              "RelativeDocumentMoniker": "dominio\\Voucher.cs",
+              "ToolTip": "C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\dominio\\Voucher.cs",
+              "RelativeToolTip": "dominio\\Voucher.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T04:25:49.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "accesoDatos.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\accesoDatos\\accesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\accesoDatos\\accesoDatos.cs",
               "RelativeDocumentMoniker": "accesoDatos\\accesoDatos.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\accesoDatos\\accesoDatos.cs",
+              "ToolTip": "C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\accesoDatos\\accesoDatos.cs",
               "RelativeToolTip": "accesoDatos\\accesoDatos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAC4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-05T00:33:08.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Articulo.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\dominio\\Articulo.cs",
-              "RelativeDocumentMoniker": "dominio\\Articulo.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\dominio\\Articulo.cs",
-              "RelativeToolTip": "dominio\\Articulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T00:07:53.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EleccionPremio.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\tp4\\EleccionPremio.aspx.cs",
-              "RelativeDocumentMoniker": "tp4\\EleccionPremio.aspx.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\tp4\\EleccionPremio.aspx.cs",
-              "RelativeToolTip": "tp4\\EleccionPremio.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T00:02:21.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EleccionPremio.aspx",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\tp4\\EleccionPremio.aspx",
-              "RelativeDocumentMoniker": "tp4\\EleccionPremio.aspx",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\tp4\\EleccionPremio.aspx",
-              "RelativeToolTip": "tp4\\EleccionPremio.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-05T00:02:11.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Master.Master",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\tp4\\Master.Master",
+              "DocumentMoniker": "C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\tp4\\Master.Master",
               "RelativeDocumentMoniker": "tp4\\Master.Master",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\tp4\\Master.Master",
+              "ToolTip": "C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\tp4\\Master.Master",
               "RelativeToolTip": "tp4\\Master.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -141,28 +128,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ArticuloNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\negocio\\ArticuloNegocio.cs",
-              "RelativeDocumentMoniker": "negocio\\ArticuloNegocio.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\negocio\\ArticuloNegocio.cs",
-              "RelativeToolTip": "negocio\\ArticuloNegocio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ImagenesNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\negocio\\ImagenesNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\ImagenesNegocio.cs",
+              "ToolTip": "C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\negocio\\ImagenesNegocio.cs",
+              "RelativeToolTip": "negocio\\ImagenesNegocio.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T23:12:10.852Z",
+              "WhenOpened": "2024-10-05T04:31:53.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Imagenes.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\dominio\\Imagenes.cs",
-              "RelativeDocumentMoniker": "dominio\\Imagenes.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\UTN\\PROG 3\\tp-web-equipo-4c\\tp4\\dominio\\Imagenes.cs",
-              "RelativeToolTip": "dominio\\Imagenes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "dominio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\dominio\\Articulo.cs",
+              "RelativeToolTip": "dominio\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T23:21:42.477Z",
+              "WhenOpened": "2024-10-05T00:07:53.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArticuloNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\negocio\\ArticuloNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\ArticuloNegocio.cs",
+              "ToolTip": "C:\\Users\\poky1975\\Documents\\GitHub\\tp-web-equipo-4c\\tp4\\negocio\\ArticuloNegocio.cs",
+              "RelativeToolTip": "negocio\\ArticuloNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:12:10.852Z",
               "EditorCaption": ""
             }
           ]
