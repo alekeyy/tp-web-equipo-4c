@@ -53,7 +53,7 @@ namespace tp4
                 Response.Redirect("EleccionPremio.aspx?cod=" + codigo, false);
             }
             else
-                Response.Redirect("AGREGAR LA URL PARA VOLVER A LA PAGINA DE INICIO", false);
+                Response.Redirect("Default.aspx", false);
         }
     }
 }

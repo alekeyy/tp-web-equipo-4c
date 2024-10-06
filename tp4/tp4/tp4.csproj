@@ -91,6 +91,7 @@
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Content\style.css" />
     <Content Include="Datos.aspx" />
+    <Content Include="Default.aspx" />
     <Content Include="EleccionPremio.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\bootstrap.bundle.js" />
@@ -136,6 +137,13 @@
     </Compile>
     <Compile Include="Datos.aspx.designer.cs">
       <DependentUpon>Datos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
     <Compile Include="EleccionPremio.aspx.cs">
       <DependentUpon>EleccionPremio.aspx</DependentUpon>

@@ -2,7 +2,9 @@
 using dominio;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics.Eventing.Reader;
 using System.Linq;
+using System.Net.Cache;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -41,7 +43,7 @@ namespace negocio
                     //aux.Debilidad = new Elemento();
                     //aux.Debilidad.Id = (int)datos.Lector["IdDebilidad"];
                     //aux.Debilidad.Descripcion = (string)datos.Lector["Debilidad"];
-
+                    
                     lista.Add(aux);
                 }
                 return lista;
