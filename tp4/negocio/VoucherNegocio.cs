@@ -65,5 +65,28 @@ namespace negocio
             }
             return false;
         }
+
+        public void Usar(string cod, int idCliente, int idArticulo)
+        {
+            AccesoDatos datos = new AccesoDatos();
+
+            try
+            {
+                datos.setearConsulta("UPDATE VOUCHERS SET IdCliente = @IdCliente, FechaCanje = @FechaHoy, IdArticulo = @IdArticulo WHERE CodigoVoucher = @CodigoVoucher");
+                datos.setearParametro("@IdCliente", idCliente);
+                datos.setearParametro("@FechaHoy", DateTime.Now);
+                datos.setearParametro("@IdArticulo", idArticulo);
+                datos.setearParametro("@CodigoVoucher", cod);
+                datos.ejecutarAccion();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            finally
+            {
+                datos.cerrarConexion();
+            }
+        }
     }
 }

@@ -7,7 +7,7 @@
     <div class="row row-cols-1 row-cols-md-6">
         <div class="col">
             <label for="textBoxDni">DNI</label>
-            <asp:TextBox ID="textBoxDni" runat="server" CssClass="form-control"></asp:TextBox>
+            <asp:TextBox ID="textBoxDni" runat="server" CssClass="form-control" AutoPostBack="true" OnTextChanged="textBoxDni_TextChanged"></asp:TextBox>
         </div>
     </div>
     <div class="row row-cols-1 row-cols-md-6">
@@ -42,5 +42,5 @@
         <asp:CheckBox ID="checkBoxTerminos" runat="server"/>
         <label for="checkBoxTerminos">Acepto los terminos y condiciones</label>
     </div>
-    <asp:Button runat="server" Text="Participar"   CssClass="btn btn-primary"/>
+    <asp:Button runat="server" Text="Participar" CssClass="btn btn-primary" ID="btnAgregar" OnClick="btnAgregar_Click"/>
 </asp:Content>
