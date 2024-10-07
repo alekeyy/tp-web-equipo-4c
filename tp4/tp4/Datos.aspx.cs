@@ -109,7 +109,7 @@ namespace tp4
 
                 //Modificamos el registro del voucher
                 voucherRegistro.Usar(codigo, idCliente, idArticulo);
-                Response.Redirect("VerificacionVoucher.aspx");
+                Response.Redirect("exito.aspx");
                 //Ver si cambia el texto de textBoxDni y ahi en base al ingresado, buscarlo en la base de datos
                 //Si existe, rellenar los demas campos con los valores ya cargado
             }
@@ -141,7 +141,7 @@ namespace tp4
         }
         public bool formatoEmail(string cadena)
         {
-            if(!(cadena.Contains("@gmail.com") || cadena.Contains("@hotmail.com") || cadena.Contains("@yahoo.com")))
+            if(!(cadena.Contains("@")))
                 return true;
             else
                 return false;

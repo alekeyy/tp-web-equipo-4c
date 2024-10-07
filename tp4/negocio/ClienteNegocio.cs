@@ -84,7 +84,7 @@ namespace negocio
 
             try
             {
-                datos.setearConsulta("UPDATE FROM CLIENTES SET Documento = @Documento, Nombre = @Nombre, Apellido = @Apellido, Email = @Email, Direccion = @Direccion, Ciudad = @Ciudad, CP = @CP WHERE ID = @Id;");
+                datos.setearConsulta("UPDATE CLIENTES SET Documento = @Documento, Nombre = @Nombre, Apellido = @Apellido, Email = @Email, Direccion = @Direccion, Ciudad = @Ciudad, CP = @CP WHERE ID = @Id;");
                 datos.setearParametro("@Documento", modificar.Documento);
                 datos.setearParametro("@Nombre", modificar.Nombre);
                 datos.setearParametro("@Apellido", modificar.Apellido);

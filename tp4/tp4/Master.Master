@@ -16,15 +16,13 @@
     <form id="form1" runat="server">
         <asp:ScriptManager runat="server" />
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand text-danger" href="#">FKIN PROYECT</a>
+            <a class="navbar-brand text-danger" href="default.aspx">Web Proyect</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                    <a class="nav-item nav-link" href="VerificacionVoucher.aspx">Ingresar Codigo (Braian hacelo)</a>
-                    <a class="nav-item nav-link active" href="EleccionPremio.aspx">Eleccion Premio</a>
-                    <a class="nav-item nav-link active" href="Datos.aspx">Datos Usuario</a>
+                    <a class="nav-item nav-link" href="VerificacionVoucher.aspx">Ingresar Codigo</a>
                 </div>
             </div>
         </nav>

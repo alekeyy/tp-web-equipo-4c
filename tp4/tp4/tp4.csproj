@@ -93,6 +93,7 @@
     <Content Include="Datos.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="EleccionPremio.aspx" />
+    <Content Include="exito.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
@@ -151,6 +152,13 @@
     </Compile>
     <Compile Include="EleccionPremio.aspx.designer.cs">
       <DependentUpon>EleccionPremio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="exito.aspx.cs">
+      <DependentUpon>exito.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="exito.aspx.designer.cs">
+      <DependentUpon>exito.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
